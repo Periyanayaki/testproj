@@ -3,8 +3,4 @@ class ApplicationController < ActionController::Base
   def edit
 
   end
-  def find
-
-  end
-
-end
+ end
